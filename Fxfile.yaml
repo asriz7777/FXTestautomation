@@ -80,10 +80,10 @@ jobs:
     regions: FXLabs/US_WEST_1
     cron: '0 0 12 * * ?'
     issueTracker: 
-      name: FXLabs/Dev-IssueTracker
+      name: FXLabs/Uat-Issue Tracker
       # e.g. https://github.com/shoukathmd/courseapo
-      url: <<changeme>>
-      account: Default_GitHub
+      url: https://github.com/asriz7777/ashaji
+      account: isstracker
     notifications: 
       - name: FXLabs_QA/slacknotification
         channel: fxlabs_qa
