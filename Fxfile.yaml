@@ -90,5 +90,5 @@ jobs:
         account: slackaccount
       - name: FXLabs_QA/emailnotification
         # enter your email
-        to: engineering@fxlabs.io
+        to: asiya@fxlabs.io
         account: emailaccount
