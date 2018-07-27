@@ -91,4 +91,4 @@ jobs:
       - name: FXLabs_QA/emailnotification
         # enter your email
         to: engineering@fxlabs.io
-        account: Default_Email
+        account: emailaccount
