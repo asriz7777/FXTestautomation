@@ -73,7 +73,7 @@ jobs:
     environment: Dev
     tags:
       - V3
- - name: Uat
+  - name: Uat
     environment: Uat
     tags:
       - V2
