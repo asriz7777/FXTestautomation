@@ -113,6 +113,10 @@ testCases:
      
 assertions:
   - "@StatusCode == 401"
+  
+cleanup:
+- account_delete
+
 
 tags:
   - V2
