@@ -4,7 +4,7 @@
 authors:
   - Asiya Shaji
 
-endpoint: /Accounts
+endpoint: /accounts
 method: POST
 auth: NONE
 severity: Critical
@@ -23,11 +23,8 @@ testCases:
    
      
 assertions:
-  - "@StatusCode == 200"
-  - "@StatusCode == 401"
-  
-cleanup:
-- account_delete
+- "@StatusCode == 401"
+ 
 
 
 tags:
