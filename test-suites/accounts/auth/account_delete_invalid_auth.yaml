@@ -4,7 +4,7 @@
 authors:
   - Asiya Shaji
 
-endpoint: /accounts
+endpoint: /accounts/1
 method: DELETE
 auth: NONE
 severity: Critical
