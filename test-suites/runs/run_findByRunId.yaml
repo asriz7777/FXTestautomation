@@ -4,7 +4,7 @@
 authors:
   - Asiya Shaji
 
-endpoint: /runs/{id}
+endpoint: /runs/1
 
 method: GET
 
