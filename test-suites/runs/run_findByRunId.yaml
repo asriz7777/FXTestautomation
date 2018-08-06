@@ -7,6 +7,7 @@ authors:
 endpoint: /runs/1
 
 method: GET
+auth: Default
 
 assertions:
   - "@StatusCode == 200"
